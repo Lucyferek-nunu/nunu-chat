@@ -1,0 +1,8 @@
+main: nunu.chat.main.Main
+version: 1.0
+author: Nunu
+name: chat
+
+commands:
+
+ chat:
